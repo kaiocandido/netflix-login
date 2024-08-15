@@ -2,7 +2,7 @@
 
 Bem-vindo ao projeto da página de login da Netflix! Este é um exemplo de como criar uma página de login semelhante à interface da Netflix utilizando HTML e CSS.
 
-![Netflix Login](https://via.placeholder.com/800x400.png?text=Demo+da+Página+de+Login+da+Netflix)
+<a href="https://netflix-login-six.vercel.app/">Netflix Login</a>
 
 ## 🛠 Tecnologias Utilizadas
 
